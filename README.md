@@ -10,6 +10,9 @@ Data Science and Web Development, isn't this a good combination? 🤔
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-ED8B00?style=for-the-badge&l&logoColor=white)
+
+## Most used techs 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanduda&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/Nicochess/github-readme-stats)
 <!--
 **svhenrique/svhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
