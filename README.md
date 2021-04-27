@@ -1,5 +1,8 @@
 ### Hi there. I am Silvio ✌️
 
+#### Tech Skills 🧠
+
+HTML5   CSS3   PYTHON   Git   Django   scikit-learn       
 <!--
 **svhenrique/svhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
