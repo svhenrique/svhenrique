@@ -2,6 +2,10 @@
 
 Data Science and Web Development, isn't this a good combination? 🤔
 
+## Find me ⚡
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvio-henrique-960857146/)](https://www.linkedin.com/in/silvio-henrique-960857146/)
+
 ## Tech Skills 🧠
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
