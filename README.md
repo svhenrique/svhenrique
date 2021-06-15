@@ -2,8 +2,6 @@
 
 Data Science and Web Development, isn't this a good combination? 🤔
 
-[![generate animation](https://github.com/svhenrique/svhenrique/actions/workflows/main.yml/badge.svg)](https://github.com/svhenrique/svhenrique/actions/workflows/main.yml)
-
 ## Find me ⚡
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvio-henrique-960857146/)](https://www.linkedin.com/in/silvio-henrique-960857146/)
