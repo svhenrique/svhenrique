@@ -2,6 +2,8 @@
 
 Data Science and Web Development, isn't this a good combination? 🤔
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/svhenrique/svhenrique/output/github-contribution-grid-snake.svg)
+
 ## Find me ⚡
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvio-henrique-960857146/)](https://www.linkedin.com/in/silvio-henrique-960857146/)
