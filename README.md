@@ -19,6 +19,9 @@ Data Science and Web Development, isn't this a good combination? 🤔
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svhenrique&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/Nicochess/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=svhenrique&show_icons=true&count_private=true&theme=radical&hide=issues)
+
 <!--
 **svhenrique/svhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
