@@ -18,3 +18,8 @@ Data Science and Web Development, isn't this a good combination? 🤔
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=svhenrique&show_icons=true&count_private=true&theme=radical&hide=issues)
 
+
+## Find me ⚡
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvio-henrique-960857146/)](https://www.linkedin.com/in/silvio-henrique-960857146/)
+
